@@ -1,0 +1,217 @@
+    1  cd playground
+    2  make level 
+    3  ./level
+    4  make level 
+    5  ./lev
+    6  ./level 
+    7  make level
+    8  ./level
+    9  make level
+   10  ./level
+   11  make level
+   12  ./level
+   13  make level
+   14  ./level
+   15  make level
+   16  ./level
+   17  make level
+   18  ./level
+   19  make level
+   20  ./level
+   21  make level
+   22  ./level
+   23  make level
+   24  ./level
+   25  make level
+   26  ./level
+   27  make level
+   28  ./level
+   29  make level
+   30  ./level
+   31  make level
+   32  ./level
+   33  make level
+   34  ./level
+   35  make level
+   36  ./level
+   37  make level
+   38  ./level
+   39  make level
+   40  ./level
+   41  make level
+   42  ./level
+   43  make level
+   44  ./level
+   45  make level
+   46  ./level
+   47  make level
+   48  ./level
+   49  make level
+   50  ./level
+   51  make level
+   52  ./level
+   53  make level
+   54  ./level
+   55  make level
+   56  ./level
+   57  make level
+   58  ./level
+   59  make level
+   60  ./level
+   61  make level
+   62  make levle
+   63  make level
+   64  ./level
+   65  make level
+   66  ./level
+   67  make level
+   68  ./level
+   69  make mario
+   70  ./make level
+   71  make level
+   72  ./level
+   73  make level
+   74  ./level
+   75  make level
+   76  ./level
+   77  make level
+   78  ./level
+   79  make level
+   80  ./level
+   81  make level
+   82  ./level
+   83  make level
+   84  ./level
+   85  make level
+   86  ./level
+   87  cd playground
+   88  make level
+   89  ./level
+   90  make level
+   91  ./level
+   92  make level
+   93  ./level
+   94  make level
+   95  ./level
+   96  make level
+   97  ./level
+   98  cd playground
+   99  make level
+  100  ./level
+  101  make level
+  102  make level
+  103  make mario
+  104  make level
+  105  ./level
+  106  code movement.c
+  107  make movement
+  108  ./movement 
+  109  make movement
+  110  make movement
+  111  ./movement
+  112  make movement
+  113  make movement 
+  114  make movement
+  115  ./movement
+  116  ./movement
+  117  ./movement 
+  118  make movement
+  119  make movement
+  120  make movement
+  121  ./movement
+  122  ./movement
+  123  ./movement
+  124  ./movement
+  125  make movement
+  126  ./movement
+  127  make movement
+  128  ./movement
+  129  make movement
+  130  make movement
+  131  make movement
+  132  ./movement
+  133  make movement
+  134  ./movement
+  135  make movement
+  136  ./movement
+  137  make movement
+  138  ./movement
+  139  make movement
+  140  ./movement
+  141  ./movement
+  142  ./level
+  143  ./level
+  144  ./movement
+  145  cd playground
+  146  ./level
+  147  ./movement
+  148  cd playground
+  149  ./movement
+  150  q
+  151  ./level
+  152  ./movement
+  153  ./level
+  154  mkdir examen
+  155  cd examen
+  156  code examen
+  157  code examen.c
+  158  make examen
+  159  cd ..
+  160  mkdir repositorio
+  161  rm -rf repositorio
+  162  pwd
+  163  git --version
+  164  cd ..
+  165  mkdir temporal
+  166  cd temporal
+  167  git --version
+  168  code .
+  169  code exam.c
+  170  make exam
+  171  ls
+  172  git init
+  173  echo "Hola repositorio" > exam.c
+  174  git status
+  175  git commit -m "Primer checkpoint"
+  176  git add exam.c
+  177  git status
+  178  git add exam
+  179  git commit -m "First checkpoint"
+  180  git status
+  181  cd ..
+  182  cd 179799633
+  183  cd examen
+  184  code examen.c
+  185  make examen
+  186  make examen
+  187  ./examen
+  188  cd ..
+  189  cd ..
+  190  cd temporal
+  191  code exam
+  192  make exam
+  193  make exam
+  194  make exam
+  195  ./exam
+  196  make exam
+  197  make exam
+  198  ./exam
+  199  make exam
+  200  ./exam
+  201  make exam
+  202  ./exam
+  203  make exam
+  204  ./exam
+  205  make exam
+  206  ./exam
+  207  git status
+  208  git add exam
+  209  git add exam.c
+  210  git status
+  211  git commit -m "Final commit"
+  212  git log --oneline
+  213  git push
+  214  git status
+  215  git remote add origin https://github.com/4ndy10/examProgramation.git
+  216  git push -u origin main
+  217  history > comandos.txt
